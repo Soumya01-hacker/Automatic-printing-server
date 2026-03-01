@@ -33,7 +33,7 @@ Built specifically for **LIC (Life Insurance Corporation) agents** but works for
 ## 🎯 How It Works
 
 ```
-Father sends email                Server detects email
+You sends email                Server detects email
 with attachment         ──────►   within 15 seconds
 📎 document.pdf                        │
                                        ▼
